@@ -1,0 +1,872 @@
+{
+    "1": {
+        "balance": "0.64018585",
+        "adr": "1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH",
+        "received": "0.64018585",
+        "txcount": "9",
+        "bit": "1",
+        "rage": "2^0-2^1",
+        "startKey": "0000000000000000000000000000000000000000000000000000000000000001",
+        "stopKey": "0000000000000000000000000000000000000000000000000000000000000002"
+    },
+    "64": {
+        "balance": "0.64018585",
+        "adr": "16jY7qLJnxb7CHZyqBP8qca9d51gAjyXQN",
+        "received": "0.64018585",
+        "txcount": "9",
+        "bit": "64",
+        "rage": "2^63-2^64",
+        "startKey": "0000000000000000000000000000000000000000000000008000000000000000",
+        "stopKey": "000000000000000000000000000000000000000000000000ffffffffffffffff"
+    },
+    "66": {
+        "balance": "0.66004616",
+        "adr": "13zb1hQbWVsc2S7ZTZnP2G4undNNpdh5so",
+        "received": "0.66004616",
+        "txcount": "6",
+        "bit": "66",
+        "rage": "2^65-2^66",
+        "startKey": "0000000000000000000000000000000000000000000000020000000000000000",
+        "stopKey": "000000000000000000000000000000000000000000000003ffffffffffffffff"
+    },
+    "67": {
+        "balance": "0.67",
+        "adr": "1BY8GQbnueYofwSuFAT3USAhGjPrkxDdW9",
+        "received": "0.67",
+        "txcount": "2",
+        "bit": "67",
+        "rage": "2^66-2^67",
+        "startKey": "0000000000000000000000000000000000000000000000040000000000000000",
+        "stopKey": "000000000000000000000000000000000000000000000007ffffffffffffffff"
+    },
+    "68": {
+        "balance": "0.68",
+        "adr": "1MVDYgVaSN6iKKEsbzRUAYFrYJadLYZvvZ",
+        "received": "0.68",
+        "txcount": "2",
+        "bit": "68",
+        "rage": "2^67-2^68",
+        "startKey": "0000000000000000000000000000000000000000000000080000000000000000",
+        "stopKey": "00000000000000000000000000000000000000000000000fffffffffffffffff"
+    },
+    "69": {
+        "balance": "0.69",
+        "adr": "19vkiEajfhuZ8bs8Zu2jgmC6oqZbWqhxhG",
+        "received": "0.69",
+        "txcount": "2",
+        "bit": "69",
+        "rage": "2^68-2^69",
+        "startKey": "0000000000000000000000000000000000000000000000100000000000000000",
+        "stopKey": "00000000000000000000000000000000000000000000001fffffffffffffffff"
+    },
+    "71": {
+        "balance": "0.71",
+        "adr": "1PWo3JeB9jrGwfHDNpdGK54CRas7fsVzXU",
+        "received": "0.71",
+        "txcount": "2",
+        "bit": "71",
+        "rage": "2^70-2^71",
+        "startKey": "0000000000000000000000000000000000000000000000400000000000000000",
+        "stopKey": "00000000000000000000000000000000000000000000007fffffffffffffffff"
+    },
+    "72": {
+        "balance": "0.72",
+        "adr": "1JTK7s9YVYywfm5XUH7RNhHJH1LshCaRFR",
+        "received": "0.72",
+        "txcount": "2",
+        "bit": "72",
+        "rage": "2^71-2^72",
+        "startKey": "0000000000000000000000000000000000000000000000800000000000000000",
+        "stopKey": "0000000000000000000000000000000000000000000000ffffffffffffffffff"
+    },
+    "73": {
+        "balance": "0.73",
+        "adr": "12VVRNPi4SJqUTsp6FmqDqY5sGosDtysn4",
+        "received": "0.73",
+        "txcount": "2",
+        "bit": "73",
+        "rage": "2^72-2^73",
+        "startKey": "0000000000000000000000000000000000000000000001000000000000000000",
+        "stopKey": "0000000000000000000000000000000000000000000001ffffffffffffffffff"
+    },
+    "74": {
+        "balance": "0.74",
+        "adr": "1FWGcVDK3JGzCC3WtkYetULPszMaK2Jksv",
+        "received": "0.74",
+        "txcount": "2",
+        "bit": "74",
+        "rage": "2^73-2^74",
+        "startKey": "0000000000000000000000000000000000000000000002000000000000000000",
+        "stopKey": "0000000000000000000000000000000000000000000003ffffffffffffffffff"
+    },
+    "76": {
+        "balance": "0.76",
+        "adr": "1DJh2eHFYQfACPmrvpyWc8MSTYKh7w9eRF",
+        "received": "0.76",
+        "txcount": "2",
+        "bit": "76",
+        "rage": "2^75-2^76",
+        "startKey": "0000000000000000000000000000000000000000000008000000000000000000",
+        "stopKey": "000000000000000000000000000000000000000000000fffffffffffffffffff"
+    },
+    "77": {
+        "balance": "0.77",
+        "adr": "1Bxk4CQdqL9p22JEtDfdXMsng1XacifUtE",
+        "received": "0.77",
+        "txcount": "2",
+        "bit": "77",
+        "rage": "2^76-2^77",
+        "startKey": "0000000000000000000000000000000000000000000010000000000000000000",
+        "stopKey": "000000000000000000000000000000000000000000001fffffffffffffffffff"
+    },
+    "78": {
+        "balance": "0.78",
+        "adr": "15qF6X51huDjqTmF9BJgxXdt1xcj46Jmhb",
+        "received": "0.78",
+        "txcount": "2",
+        "bit": "78",
+        "rage": "2^77-2^78",
+        "startKey": "0000000000000000000000000000000000000000000020000000000000000000",
+        "stopKey": "000000000000000000000000000000000000000000003fffffffffffffffffff"
+    },
+    "79": {
+        "balance": "0.79",
+        "adr": "1ARk8HWJMn8js8tQmGUJeQHjSE7KRkn2t8",
+        "received": "0.79",
+        "txcount": "2",
+        "bit": "79",
+        "rage": "2^78-2^79",
+        "startKey": "0000000000000000000000000000000000000000000040000000000000000000",
+        "stopKey": "000000000000000000000000000000000000000000007fffffffffffffffffff"
+    },
+    "81": {
+        "balance": "0.81",
+        "adr": "15qsCm78whspNQFydGJQk5rexzxTQopnHZ",
+        "received": "0.81",
+        "txcount": "2",
+        "bit": "81",
+        "rage": "2^80-2^81",
+        "startKey": "0000000000000000000000000000000000000000000100000000000000000000",
+        "stopKey": "00000000000000000000000000000000000000000001ffffffffffffffffffff"
+    },
+    "82": {
+        "balance": "0.82",
+        "adr": "13zYrYhhJxp6Ui1VV7pqa5WDhNWM45ARAC",
+        "received": "0.82",
+        "txcount": "2",
+        "bit": "82",
+        "rage": "2^81-2^82",
+        "startKey": "0000000000000000000000000000000000000000000200000000000000000000",
+        "stopKey": "00000000000000000000000000000000000000000003ffffffffffffffffffff"
+    },
+    "83": {
+        "balance": "0.83",
+        "adr": "14MdEb4eFcT3MVG5sPFG4jGLuHJSnt1Dk2",
+        "received": "0.83",
+        "txcount": "2",
+        "bit": "83",
+        "rage": "2^82-2^83",
+        "startKey": "0000000000000000000000000000000000000000000400000000000000000000",
+        "stopKey": "00000000000000000000000000000000000000000007ffffffffffffffffffff"
+    },
+    "84": {
+        "balance": "0.84",
+        "adr": "1CMq3SvFcVEcpLMuuH8PUcNiqsK1oicG2D",
+        "received": "0.84",
+        "txcount": "2",
+        "bit": "84",
+        "rage": "2^83-2^84",
+        "startKey": "0000000000000000000000000000000000000000000800000000000000000000",
+        "stopKey": "0000000000000000000000000000000000000000000fffffffffffffffffffff"
+    },
+    "86": {
+        "balance": "0.86",
+        "adr": "1K3x5L6G57Y494fDqBfrojD28UJv4s5JcK",
+        "received": "0.86",
+        "txcount": "2",
+        "bit": "86",
+        "rage": "2^85-2^86",
+        "startKey": "0000000000000000000000000000000000000000002000000000000000000000",
+        "stopKey": "0000000000000000000000000000000000000000003fffffffffffffffffffff"
+    },
+    "87": {
+        "balance": "0.87",
+        "adr": "1PxH3K1Shdjb7gSEoTX7UPDZ6SH4qGPrvq",
+        "received": "0.87",
+        "txcount": "2",
+        "bit": "87",
+        "rage": "2^86-2^87",
+        "startKey": "0000000000000000000000000000000000000000004000000000000000000000",
+        "stopKey": "0000000000000000000000000000000000000000007fffffffffffffffffffff"
+    },
+    "88": {
+        "balance": "0.88",
+        "adr": "16AbnZjZZipwHMkYKBSfswGWKDmXHjEpSf",
+        "received": "0.88",
+        "txcount": "2",
+        "bit": "88",
+        "rage": "2^87-2^88",
+        "startKey": "0000000000000000000000000000000000000000008000000000000000000000",
+        "stopKey": "000000000000000000000000000000000000000000ffffffffffffffffffffff"
+    },
+    "89": {
+        "balance": "0.89",
+        "adr": "19QciEHbGVNY4hrhfKXmcBBCrJSBZ6TaVt",
+        "received": "0.89",
+        "txcount": "2",
+        "bit": "89",
+        "rage": "2^88-2^89",
+        "startKey": "0000000000000000000000000000000000000000010000000000000000000000",
+        "stopKey": "000000000000000000000000000000000000000001ffffffffffffffffffffff"
+    },
+    "91": {
+        "balance": "0.91",
+        "adr": "1EzVHtmbN4fs4MiNk3ppEnKKhsmXYJ4s74",
+        "received": "0.91",
+        "txcount": "2",
+        "bit": "91",
+        "rage": "2^90-2^91",
+        "startKey": "0000000000000000000000000000000000000000040000000000000000000000",
+        "stopKey": "000000000000000000000000000000000000000007ffffffffffffffffffffff"
+    },
+    "92": {
+        "balance": "0.92",
+        "adr": "1AE8NzzgKE7Yhz7BWtAcAAxiFMbPo82NB5",
+        "received": "0.92",
+        "txcount": "2",
+        "bit": "92",
+        "rage": "2^91-2^92",
+        "startKey": "0000000000000000000000000000000000000000080000000000000000000000",
+        "stopKey": "00000000000000000000000000000000000000000fffffffffffffffffffffff"
+    },
+    "93": {
+        "balance": "0.93",
+        "adr": "17Q7tuG2JwFFU9rXVj3uZqRtioH3mx2Jad",
+        "received": "0.93",
+        "txcount": "2",
+        "bit": "93",
+        "rage": "2^92-2^93",
+        "startKey": "0000000000000000000000000000000000000000100000000000000000000000",
+        "stopKey": "00000000000000000000000000000000000000001fffffffffffffffffffffff"
+    },
+    "94": {
+        "balance": "0.94",
+        "adr": "1K6xGMUbs6ZTXBnhw1pippqwK6wjBWtNpL",
+        "received": "0.94",
+        "txcount": "2",
+        "bit": "94",
+        "rage": "2^93-2^94",
+        "startKey": "0000000000000000000000000000000000000000200000000000000000000000",
+        "stopKey": "00000000000000000000000000000000000000003fffffffffffffffffffffff"
+    },
+    "96": {
+        "balance": "0.96",
+        "adr": "15ANYzzCp5BFHcCnVFzXqyibpzgPLWaD8b",
+        "received": "0.96",
+        "txcount": "2",
+        "bit": "96",
+        "rage": "2^95-2^96",
+        "startKey": "0000000000000000000000000000000000000000800000000000000000000000",
+        "stopKey": "0000000000000000000000000000000000000000ffffffffffffffffffffffff"
+    },
+    "97": {
+        "balance": "0.97",
+        "adr": "18ywPwj39nGjqBrQJSzZVq2izR12MDpDr8",
+        "received": "0.97",
+        "txcount": "2",
+        "bit": "97",
+        "rage": "2^96-2^97",
+        "startKey": "0000000000000000000000000000000000000001000000000000000000000000",
+        "stopKey": "0000000000000000000000000000000000000001ffffffffffffffffffffffff"
+    },
+    "98": {
+        "balance": "0.98",
+        "adr": "1CaBVPrwUxbQYYswu32w7Mj4HR4maNoJSX",
+        "received": "0.98",
+        "txcount": "2",
+        "bit": "98",
+        "rage": "2^97-2^98",
+        "startKey": "0000000000000000000000000000000000000002000000000000000000000000",
+        "stopKey": "0000000000000000000000000000000000000003ffffffffffffffffffffffff"
+    },
+    "99": {
+        "balance": "0.99",
+        "adr": "1JWnE6p6UN7ZJBN7TtcbNDoRcjFtuDWoNL",
+        "received": "0.99",
+        "txcount": "2",
+        "bit": "99",
+        "rage": "2^98-2^99",
+        "startKey": "0000000000000000000000000000000000000004000000000000000000000000",
+        "stopKey": "0000000000000000000000000000000000000007ffffffffffffffffffffffff"
+    },
+    "101": {
+        "balance": "1.01",
+        "adr": "1CKCVdbDJasYmhswB6HKZHEAnNaDpK7W4n",
+        "received": "1.01",
+        "txcount": "2",
+        "bit": "101",
+        "rage": "2^100-2^101",
+        "startKey": "0000000000000000000000000000000000000010000000000000000000000000",
+        "stopKey": "000000000000000000000000000000000000001fffffffffffffffffffffffff"
+    },
+    "102": {
+        "balance": "1.02",
+        "adr": "1PXv28YxmYMaB8zxrKeZBW8dt2HK7RkRPX",
+        "received": "1.02",
+        "txcount": "2",
+        "bit": "102",
+        "rage": "2^101-2^102",
+        "startKey": "0000000000000000000000000000000000000020000000000000000000000000",
+        "stopKey": "000000000000000000000000000000000000003fffffffffffffffffffffffff"
+    },
+    "103": {
+        "balance": "1.03",
+        "adr": "1AcAmB6jmtU6AiEcXkmiNE9TNVPsj9DULf",
+        "received": "1.03",
+        "txcount": "2",
+        "bit": "103",
+        "rage": "2^102-2^103",
+        "startKey": "0000000000000000000000000000000000000040000000000000000000000000",
+        "stopKey": "000000000000000000000000000000000000007fffffffffffffffffffffffff"
+    },
+    "104": {
+        "balance": "1.04",
+        "adr": "1EQJvpsmhazYCcKX5Au6AZmZKRnzarMVZu",
+        "received": "1.04",
+        "txcount": "2",
+        "bit": "104",
+        "rage": "2^103-2^104",
+        "startKey": "0000000000000000000000000000000000000080000000000000000000000000",
+        "stopKey": "00000000000000000000000000000000000000ffffffffffffffffffffffffff"
+    },
+    "106": {
+        "balance": "1.06",
+        "adr": "18KsfuHuzQaBTNLASyj15hy4LuqPUo1FNB",
+        "received": "1.06",
+        "txcount": "2",
+        "bit": "106",
+        "rage": "2^105-2^106",
+        "startKey": "0000000000000000000000000000000000000200000000000000000000000000",
+        "stopKey": "00000000000000000000000000000000000003ffffffffffffffffffffffffff"
+    },
+    "107": {
+        "balance": "1.07",
+        "adr": "15EJFC5ZTs9nhsdvSUeBXjLAuYq3SWaxTc",
+        "received": "1.07",
+        "txcount": "2",
+        "bit": "107",
+        "rage": "2^106-2^107",
+        "startKey": "0000000000000000000000000000000000000400000000000000000000000000",
+        "stopKey": "00000000000000000000000000000000000007ffffffffffffffffffffffffff"
+    },
+    "108": {
+        "balance": "1.08",
+        "adr": "1HB1iKUqeffnVsvQsbpC6dNi1XKbyNuqao",
+        "received": "1.08",
+        "txcount": "2",
+        "bit": "108",
+        "rage": "2^107-2^108",
+        "startKey": "0000000000000000000000000000000000000800000000000000000000000000",
+        "stopKey": "0000000000000000000000000000000000000fffffffffffffffffffffffffff"
+    },
+    "109": {
+        "balance": "1.09",
+        "adr": "1GvgAXVCbA8FBjXfWiAms4ytFeJcKsoyhL",
+        "received": "1.09",
+        "txcount": "2",
+        "bit": "109",
+        "rage": "2^108-2^109",
+        "startKey": "0000000000000000000000000000000000001000000000000000000000000000",
+        "stopKey": "0000000000000000000000000000000000001fffffffffffffffffffffffffff"
+    },
+    "111": {
+        "balance": "1.11",
+        "adr": "1824ZJQ7nKJ9QFTRBqn7z7dHV5EGpzUpH3",
+        "received": "1.11",
+        "txcount": "2",
+        "bit": "111",
+        "rage": "2^110-2^111",
+        "startKey": "0000000000000000000000000000000000004000000000000000000000000000",
+        "stopKey": "0000000000000000000000000000000000007fffffffffffffffffffffffffff"
+    },
+    "112": {
+        "balance": "1.12",
+        "adr": "18A7NA9FTsnJxWgkoFfPAFbQzuQxpRtCos",
+        "received": "1.12",
+        "txcount": "2",
+        "bit": "112",
+        "rage": "2^111-2^112",
+        "startKey": "0000000000000000000000000000000000008000000000000000000000000000",
+        "stopKey": "000000000000000000000000000000000000ffffffffffffffffffffffffffff"
+    },
+    "113": {
+        "balance": "1.13",
+        "adr": "1NeGn21dUDDeqFQ63xb2SpgUuXuBLA4WT4",
+        "received": "1.13",
+        "txcount": "2",
+        "bit": "113",
+        "rage": "2^112-2^113",
+        "startKey": "0000000000000000000000000000000000010000000000000000000000000000",
+        "stopKey": "000000000000000000000000000000000001ffffffffffffffffffffffffffff"
+    },
+    "114": {
+        "balance": "1.14",
+        "adr": "174SNxfqpdMGYy5YQcfLbSTK3MRNZEePoy",
+        "received": "1.14",
+        "txcount": "2",
+        "bit": "114",
+        "rage": "2^113-2^114",
+        "startKey": "0000000000000000000000000000000000020000000000000000000000000000",
+        "stopKey": "000000000000000000000000000000000003ffffffffffffffffffffffffffff"
+    },
+    "116": {
+        "balance": "1.16",
+        "adr": "1MnJ6hdhvK37VLmqcdEwqC3iFxyWH2PHUV",
+        "received": "1.16",
+        "txcount": "2",
+        "bit": "116",
+        "rage": "2^115-2^116",
+        "startKey": "0000000000000000000000000000000000080000000000000000000000000000",
+        "stopKey": "00000000000000000000000000000000000fffffffffffffffffffffffffffff"
+    },
+    "117": {
+        "balance": "1.17",
+        "adr": "1KNRfGWw7Q9Rmwsc6NT5zsdvEb9M2Wkj5Z",
+        "received": "1.17",
+        "txcount": "2",
+        "bit": "117",
+        "rage": "2^116-2^117",
+        "startKey": "0000000000000000000000000000000000100000000000000000000000000000",
+        "stopKey": "00000000000000000000000000000000001fffffffffffffffffffffffffffff"
+    },
+    "118": {
+        "balance": "1.18",
+        "adr": "1PJZPzvGX19a7twf5HyD2VvNiPdHLzm9F6",
+        "received": "1.18",
+        "txcount": "2",
+        "bit": "118",
+        "rage": "2^117-2^118",
+        "startKey": "0000000000000000000000000000000000200000000000000000000000000000",
+        "stopKey": "00000000000000000000000000000000003fffffffffffffffffffffffffffff"
+    },
+    "119": {
+        "balance": "1.19",
+        "adr": "1GuBBhf61rnvRe4K8zu8vdQB3kHzwFqSy7",
+        "received": "1.19",
+        "txcount": "2",
+        "bit": "119",
+        "rage": "2^118-2^119",
+        "startKey": "0000000000000000000000000000000000400000000000000000000000000000",
+        "stopKey": "00000000000000000000000000000000007fffffffffffffffffffffffffffff"
+    },
+    "120": {
+        "balance": "1.2",
+        "adr": "17s2b9ksz5y7abUm92cHwG8jEPCzK3dLnT",
+        "received": "1.20001",
+        "txcount": "4",
+        "bit": "120",
+        "rage": "2^119-2^120",
+        "startKey": "0000000000000000000000000000000000800000000000000000000000000000",
+        "stopKey": "0000000000000000000000000000000000ffffffffffffffffffffffffffffff"
+    },
+    "121": {
+        "balance": "1.21",
+        "adr": "1GDSuiThEV64c166LUFC9uDcVdGjqkxKyh",
+        "received": "1.21",
+        "txcount": "2",
+        "bit": "121",
+        "rage": "2^120-2^121",
+        "startKey": "0000000000000000000000000000000001000000000000000000000000000000",
+        "stopKey": "0000000000000000000000000000000001ffffffffffffffffffffffffffffff"
+    },
+    "122": {
+        "balance": "1.22",
+        "adr": "1Me3ASYt5JCTAK2XaC32RMeH34PdprrfDx",
+        "received": "1.22",
+        "txcount": "2",
+        "bit": "122",
+        "rage": "2^121-2^122",
+        "startKey": "0000000000000000000000000000000002000000000000000000000000000000",
+        "stopKey": "0000000000000000000000000000000003ffffffffffffffffffffffffffffff"
+    },
+    "123": {
+        "balance": "1.23",
+        "adr": "1CdufMQL892A69KXgv6UNBD17ywWqYpKut",
+        "received": "1.23",
+        "txcount": "2",
+        "bit": "123",
+        "rage": "2^122-2^123",
+        "startKey": "0000000000000000000000000000000004000000000000000000000000000000",
+        "stopKey": "0000000000000000000000000000000007ffffffffffffffffffffffffffffff"
+    },
+    "124": {
+        "balance": "1.24",
+        "adr": "1BkkGsX9ZM6iwL3zbqs7HWBV7SvosR6m8N",
+        "received": "1.24",
+        "txcount": "2",
+        "bit": "124",
+        "rage": "2^123-2^124",
+        "startKey": "0000000000000000000000000000000008000000000000000000000000000000",
+        "stopKey": "000000000000000000000000000000000fffffffffffffffffffffffffffffff"
+    },
+    "125": {
+        "balance": "1.25",
+        "adr": "1PXAyUB8ZoH3WD8n5zoAthYjN15yN5CVq5",
+        "received": "1.25001",
+        "txcount": "4",
+        "bit": "125",
+        "rage": "2^124-2^125",
+        "startKey": "0000000000000000000000000000000010000000000000000000000000000000",
+        "stopKey": "000000000000000000000000000000001fffffffffffffffffffffffffffffff"
+    },
+    "126": {
+        "balance": "1.26",
+        "adr": "1AWCLZAjKbV1P7AHvaPNCKiB7ZWVDMxFiz",
+        "received": "1.26",
+        "txcount": "2",
+        "bit": "126",
+        "rage": "2^125-2^126",
+        "startKey": "0000000000000000000000000000000020000000000000000000000000000000",
+        "stopKey": "000000000000000000000000000000003fffffffffffffffffffffffffffffff"
+    },
+    "127": {
+        "balance": "1.27",
+        "adr": "1G6EFyBRU86sThN3SSt3GrHu1sA7w7nzi4",
+        "received": "1.27",
+        "txcount": "2",
+        "bit": "127",
+        "rage": "2^126-2^127",
+        "startKey": "0000000000000000000000000000000040000000000000000000000000000000",
+        "stopKey": "000000000000000000000000000000007fffffffffffffffffffffffffffffff"
+    },
+    "128": {
+        "balance": "1.28",
+        "adr": "1MZ2L1gFrCtkkn6DnTT2e4PFUTHw9gNwaj",
+        "received": "1.28",
+        "txcount": "2",
+        "bit": "128",
+        "rage": "2^127-2^128",
+        "startKey": "0000000000000000000000000000000080000000000000000000000000000000",
+        "stopKey": "00000000000000000000000000000000ffffffffffffffffffffffffffffffff"
+    },
+    "129": {
+        "balance": "1.29",
+        "adr": "1Hz3uv3nNZzBVMXLGadCucgjiCs5W9vaGz",
+        "received": "1.29",
+        "txcount": "2",
+        "bit": "129",
+        "rage": "2^128-2^129",
+        "startKey": "0000000000000000000000000000000100000000000000000000000000000000",
+        "stopKey": "00000000000000000000000000000001ffffffffffffffffffffffffffffffff"
+    },
+    "130": {
+        "balance": "1.3",
+        "adr": "1Fo65aKq8s8iquMt6weF1rku1moWVEd5Ua",
+        "received": "1.30001",
+        "txcount": "4",
+        "bit": "130",
+        "rage": "2^129-2^130",
+        "startKey": "0000000000000000000000000000000200000000000000000000000000000000",
+        "stopKey": "00000000000000000000000000000003ffffffffffffffffffffffffffffffff"
+    },
+    "131": {
+        "balance": "1.31",
+        "adr": "16zRPnT8znwq42q7XeMkZUhb1bKqgRogyy",
+        "received": "1.31",
+        "txcount": "2",
+        "bit": "131",
+        "rage": "2^130-2^131",
+        "startKey": "0000000000000000000000000000000400000000000000000000000000000000",
+        "stopKey": "00000000000000000000000000000007ffffffffffffffffffffffffffffffff"
+    },
+    "132": {
+        "balance": "1.32",
+        "adr": "1KrU4dHE5WrW8rhWDsTRjR21r8t3dsrS3R",
+        "received": "1.32",
+        "txcount": "2",
+        "bit": "132",
+        "rage": "2^131-2^132",
+        "startKey": "0000000000000000000000000000000800000000000000000000000000000000",
+        "stopKey": "0000000000000000000000000000000fffffffffffffffffffffffffffffffff"
+    },
+    "133": {
+        "balance": "1.33",
+        "adr": "17uDfp5r4n441xkgLFmhNoSW1KWp6xVLD",
+        "received": "1.33",
+        "txcount": "2",
+        "bit": "133",
+        "rage": "2^132-2^133",
+        "startKey": "0000000000000000000000000000001000000000000000000000000000000000",
+        "stopKey": "0000000000000000000000000000001fffffffffffffffffffffffffffffffff"
+    },
+    "134": {
+        "balance": "1.34",
+        "adr": "13A3JrvXmvg5w9XGvyyR4JEJqiLz8ZySY3",
+        "received": "1.34",
+        "txcount": "2",
+        "bit": "134",
+        "rage": "2^133-2^134",
+        "startKey": "0000000000000000000000000000002000000000000000000000000000000000",
+        "stopKey": "0000000000000000000000000000003fffffffffffffffffffffffffffffffff"
+    },
+    "135": {
+        "balance": "1.35",
+        "adr": "16RGFo6hjq9ym6Pj7N5H7L1NR1rVPJyw2v",
+        "received": "1.35001",
+        "txcount": "4",
+        "bit": "135",
+        "rage": "2^134-2^135",
+        "startKey": "0000000000000000000000000000004000000000000000000000000000000000",
+        "stopKey": "0000000000000000000000000000007fffffffffffffffffffffffffffffffff"
+    },
+    "136": {
+        "balance": "1.36",
+        "adr": "1UDHPdovvR985NrWSkdWQDEQ1xuRiTALq",
+        "received": "1.36",
+        "txcount": "2",
+        "bit": "136",
+        "rage": "2^135-2^136",
+        "startKey": "0000000000000000000000000000008000000000000000000000000000000000",
+        "stopKey": "000000000000000000000000000000ffffffffffffffffffffffffffffffffff"
+    },
+    "137": {
+        "balance": "1.37",
+        "adr": "15nf31J46iLuK1ZkTnqHo7WgN5cARFK3RA",
+        "received": "1.37",
+        "txcount": "2",
+        "bit": "137",
+        "rage": "2^136-2^137",
+        "startKey": "0000000000000000000000000000010000000000000000000000000000000000",
+        "stopKey": "000000000000000000000000000001ffffffffffffffffffffffffffffffffff"
+    },
+    "138": {
+        "balance": "1.38",
+        "adr": "1Ab4vzG6wEQBDNQM1B2bvUz4fqXXdFk2WT",
+        "received": "1.38",
+        "txcount": "2",
+        "bit": "138",
+        "rage": "2^137-2^138",
+        "startKey": "0000000000000000000000000000020000000000000000000000000000000000",
+        "stopKey": "000000000000000000000000000003ffffffffffffffffffffffffffffffffff"
+    },
+    "139": {
+        "balance": "1.39",
+        "adr": "1Fz63c775VV9fNyj25d9Xfw3YHE6sKCxbt",
+        "received": "1.39",
+        "txcount": "2",
+        "bit": "139",
+        "rage": "2^138-2^139",
+        "startKey": "0000000000000000000000000000040000000000000000000000000000000000",
+        "stopKey": "000000000000000000000000000007ffffffffffffffffffffffffffffffffff"
+    },
+    "140": {
+        "balance": "1.4",
+        "adr": "1QKBaU6WAeycb3DbKbLBkX7vJiaS8r42Xo",
+        "received": "1.40001",
+        "txcount": "4",
+        "bit": "140",
+        "rage": "2^139-2^140",
+        "startKey": "0000000000000000000000000000080000000000000000000000000000000000",
+        "stopKey": "00000000000000000000000000000fffffffffffffffffffffffffffffffffff"
+    },
+    "141": {
+        "balance": "1.41",
+        "adr": "1CD91Vm97mLQvXhrnoMChhJx4TP9MaQkJo",
+        "received": "1.41",
+        "txcount": "2",
+        "bit": "141",
+        "rage": "2^140-2^141",
+        "startKey": "0000000000000000000000000000100000000000000000000000000000000000",
+        "stopKey": "00000000000000000000000000001fffffffffffffffffffffffffffffffffff"
+    },
+    "142": {
+        "balance": "1.42",
+        "adr": "15MnK2jXPqTMURX4xC3h4mAZxyCcaWWEDD",
+        "received": "1.42",
+        "txcount": "2",
+        "bit": "142",
+        "rage": "2^141-2^142",
+        "startKey": "0000000000000000000000000000200000000000000000000000000000000000",
+        "stopKey": "00000000000000000000000000003fffffffffffffffffffffffffffffffffff"
+    },
+    "143": {
+        "balance": "1.43",
+        "adr": "13N66gCzWWHEZBxhVxG18P8wyjEWF9Yoi1",
+        "received": "1.43",
+        "txcount": "2",
+        "bit": "143",
+        "rage": "2^142-2^143",
+        "startKey": "0000000000000000000000000000400000000000000000000000000000000000",
+        "stopKey": "00000000000000000000000000007fffffffffffffffffffffffffffffffffff"
+    },
+    "144": {
+        "balance": "1.44",
+        "adr": "1NevxKDYuDcCh1ZMMi6ftmWwGrZKC6j7Ux",
+        "received": "1.44",
+        "txcount": "2",
+        "bit": "144",
+        "rage": "2^143-2^144",
+        "startKey": "0000000000000000000000000000800000000000000000000000000000000000",
+        "stopKey": "0000000000000000000000000000ffffffffffffffffffffffffffffffffffff"
+    },
+    "145": {
+        "balance": "1.45",
+        "adr": "19GpszRNUej5yYqxXoLnbZWKew3KdVLkXg",
+        "received": "1.45001",
+        "txcount": "4",
+        "bit": "145",
+        "rage": "2^144-2^145",
+        "startKey": "0000000000000000000000000001000000000000000000000000000000000000",
+        "stopKey": "0000000000000000000000000001ffffffffffffffffffffffffffffffffffff"
+    },
+    "146": {
+        "balance": "1.46",
+        "adr": "1M7ipcdYHey2Y5RZM34MBbpugghmjaV89P",
+        "received": "1.46",
+        "txcount": "2",
+        "bit": "146",
+        "rage": "2^145-2^146",
+        "startKey": "0000000000000000000000000002000000000000000000000000000000000000",
+        "stopKey": "0000000000000000000000000003ffffffffffffffffffffffffffffffffffff"
+    },
+    "147": {
+        "balance": "1.47",
+        "adr": "18aNhurEAJsw6BAgtANpexk5ob1aGTwSeL",
+        "received": "1.47",
+        "txcount": "2",
+        "bit": "147",
+        "rage": "2^146-2^147",
+        "startKey": "0000000000000000000000000004000000000000000000000000000000000000",
+        "stopKey": "0000000000000000000000000007ffffffffffffffffffffffffffffffffffff"
+    },
+    "148": {
+        "balance": "1.48",
+        "adr": "1FwZXt6EpRT7Fkndzv6K4b4DFoT4trbMrV",
+        "received": "1.48",
+        "txcount": "2",
+        "bit": "148",
+        "rage": "2^147-2^148",
+        "startKey": "0000000000000000000000000008000000000000000000000000000000000000",
+        "stopKey": "000000000000000000000000000fffffffffffffffffffffffffffffffffffff"
+    },
+    "149": {
+        "balance": "1.49",
+        "adr": "1CXvTzR6qv8wJ7eprzUKeWxyGcHwDYP1i2",
+        "received": "1.49",
+        "txcount": "2",
+        "bit": "149",
+        "rage": "2^148-2^149",
+        "startKey": "0000000000000000000000000010000000000000000000000000000000000000",
+        "stopKey": "000000000000000000000000001fffffffffffffffffffffffffffffffffffff"
+    },
+    "150": {
+        "balance": "1.5",
+        "adr": "1MUJSJYtGPVGkBCTqGspnxyHahpt5Te8jy",
+        "received": "1.50001",
+        "txcount": "4",
+        "bit": "150",
+        "rage": "2^149-2^150",
+        "startKey": "0000000000000000000000000020000000000000000000000000000000000000",
+        "stopKey": "000000000000000000000000003fffffffffffffffffffffffffffffffffffff"
+    },
+    "151": {
+        "balance": "1.51",
+        "adr": "13Q84TNNvgcL3HJiqQPvyBb9m4hxjS3jkV",
+        "received": "1.51",
+        "txcount": "2",
+        "bit": "151",
+        "rage": "2^150-2^151",
+        "startKey": "0000000000000000000000000040000000000000000000000000000000000000",
+        "stopKey": "000000000000000000000000007fffffffffffffffffffffffffffffffffffff"
+    },
+    "152": {
+        "balance": "1.52",
+        "adr": "1LuUHyrQr8PKSvbcY1v1PiuGuqFjWpDumN",
+        "received": "1.52",
+        "txcount": "2",
+        "bit": "152",
+        "rage": "2^151-2^152",
+        "startKey": "0000000000000000000000000080000000000000000000000000000000000000",
+        "stopKey": "00000000000000000000000000ffffffffffffffffffffffffffffffffffffff"
+    },
+    "153": {
+        "balance": "1.53",
+        "adr": "18192XpzzdDi2K11QVHR7td2HcPS6Qs5vg",
+        "received": "1.53",
+        "txcount": "2",
+        "bit": "153",
+        "rage": "2^152-2^153",
+        "startKey": "0000000000000000000000000100000000000000000000000000000000000000",
+        "stopKey": "00000000000000000000000001ffffffffffffffffffffffffffffffffffffff"
+    },
+    "154": {
+        "balance": "1.54",
+        "adr": "1NgVmsCCJaKLzGyKLFJfVequnFW9ZvnMLN",
+        "received": "1.54",
+        "txcount": "2",
+        "bit": "154",
+        "rage": "2^153-2^154",
+        "startKey": "0000000000000000000000000200000000000000000000000000000000000000",
+        "stopKey": "00000000000000000000000003ffffffffffffffffffffffffffffffffffffff"
+    },
+    "155": {
+        "balance": "1.55",
+        "adr": "1AoeP37TmHdFh8uN72fu9AqgtLrUwcv2wJ",
+        "received": "1.55001",
+        "txcount": "4",
+        "bit": "155",
+        "rage": "2^154-2^155",
+        "startKey": "0000000000000000000000000400000000000000000000000000000000000000",
+        "stopKey": "00000000000000000000000007ffffffffffffffffffffffffffffffffffffff"
+    },
+    "156": {
+        "balance": "1.56",
+        "adr": "1FTpAbQa4h8trvhQXjXnmNhqdiGBd1oraE",
+        "received": "1.56",
+        "txcount": "2",
+        "bit": "156",
+        "rage": "2^155-2^156",
+        "startKey": "0000000000000000000000000800000000000000000000000000000000000000",
+        "stopKey": "0000000000000000000000000fffffffffffffffffffffffffffffffffffffff"
+    },
+    "157": {
+        "balance": "1.57",
+        "adr": "14JHoRAdmJg3XR4RjMDh6Wed6ft6hzbQe9",
+        "received": "1.57",
+        "txcount": "2",
+        "bit": "157",
+        "rage": "2^156-2^157",
+        "startKey": "0000000000000000000000001000000000000000000000000000000000000000",
+        "stopKey": "0000000000000000000000001fffffffffffffffffffffffffffffffffffffff"
+    },
+    "158": {
+        "balance": "1.58",
+        "adr": "19z6waranEf8CcP8FqNgdwUe1QRxvUNKBG",
+        "received": "1.58",
+        "txcount": "2",
+        "bit": "158",
+        "rage": "2^157-2^158",
+        "startKey": "0000000000000000000000002000000000000000000000000000000000000000",
+        "stopKey": "0000000000000000000000003fffffffffffffffffffffffffffffffffffffff"
+    },
+    "159": {
+        "balance": "1.59",
+        "adr": "14u4nA5sugaswb6SZgn5av2vuChdMnD9E5",
+        "received": "1.59",
+        "txcount": "2",
+        "bit": "159",
+        "rage": "2^158-2^159",
+        "startKey": "0000000000000000000000004000000000000000000000000000000000000000",
+        "stopKey": "0000000000000000000000007fffffffffffffffffffffffffffffffffffffff"
+    },
+    "160": {
+        "balance": "1.60000793",
+        "adr": "1NBC8uXJy1GiJ6drkiZa1WuKn51ps7EPTv",
+        "received": "1.60001793",
+        "txcount": "5",
+        "bit": "160",
+        "rage": "2^159-2^160",
+        "startKey": "0000000000000000000000008000000000000000000000000000000000000000",
+        "stopKey": "000000000000000000000000ffffffffffffffffffffffffffffffffffffffff"
+    }
+}
